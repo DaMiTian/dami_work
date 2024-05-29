@@ -1,2 +1,3 @@
 # dami_work
-some machine learning homework by Matlab
+## 待补充说明函数作用
+
